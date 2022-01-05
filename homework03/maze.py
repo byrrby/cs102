@@ -1,5 +1,5 @@
 from copy import deepcopy
-from random import choice, randint
+from random import choice, randint, seed
 from typing import List, Optional, Tuple, Union
 
 import pandas as pd
